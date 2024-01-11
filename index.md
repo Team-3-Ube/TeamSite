@@ -1,10 +1,30 @@
 # Ube-Dev
 
-## Team Description
+## Table of Contents
+* [Voluntree Overview](#overview)
+* [Goals](#goals)
+* [Team](#team)
 
-A skilled team of ICS students, dedicating to create quality software and support our community.
+## Overview
 
-## Team Members
+1. Voluntree Proof Of Concept: [Voluntree](#) 
+
+<img src="images/Logo.png">
+
+### What Is Voluntree?
+
+Voluntree is a volunteer management system that helps match willing volunteers with nonprofits, and other organizations. Currently, there is no easy way for volunteers to find organizations that need their help. Voluntree aims to solve this problem by providing a platform for organizations to post their volunteer opportunities and for volunteers to find them. Voluntree is a web application that is accessible from any device with a web browser.
+
+## Goals
+
+Voluntree aims to provide the following features:
+* Account Registration
+* Volunteer Profile
+* Organization Profile
+* Volunteer Opportunities Posting
+
+## Team
+Volntree is designed and developed by:
 
 |                                                                                                                     | Name            | Role                         | GitHub Handle   |
 |---------------------------------------------------------------------------------------------------------------------|-----------------|------------------------------|-----------------|
@@ -20,23 +40,11 @@ A skilled team of ICS students, dedicating to create quality software and suppor
  
 All members of this team have agreed to abide by the following [contract](https://docs.google.com/document/d/1Kxjdgpj1TOGy7MWezyQWSatDHok7aZ1TTr7NwqdHbww/edit?usp=sharing).
 
-## Projects
-
-1. Voluntree Proof Of Concept: [Voluntree](#) 
-
-<img src="images/Logo.png">
-
-A simple project that helps match willing volunteers with nonprofits, and other organizations
-in accordance with the [project specifications](#) outlined
-by Sara Kenley.
-
-
 ## Team Goals
 
 - Work together as a team and contribute equitably.
 - Design a user-friendly and intuitive applications.
 - Create a thoughtful projects that help to bring people together.
-
 
 ## Meetings and Communication
 
