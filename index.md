@@ -3,6 +3,7 @@
 ## Table of Contents
 * [Voluntree Overview](#overview)
 * [Goals](#goals)
+* [Application Design](#application-design)
 * [Team](#team)
 
 ## Overview
@@ -22,6 +23,15 @@ Voluntree aims to provide the following features:
 * Volunteer Profile
 * Organization Profile
 * Volunteer Opportunities Posting
+
+## Application Design
+The following describes the design process of our app:
+
+### Landing Page Mockup
+<img src="images/Landing-Mockup.jpg" width="750px">
+
+### Home Page Mockup
+<img src="images/Home-Mockup.jpg" width="750px">
 
 ## Team
 Volntree is designed and developed by:
