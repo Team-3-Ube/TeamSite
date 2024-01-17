@@ -36,15 +36,15 @@ The following describes the design process of our app:
 ## Team
 Volntree is designed and developed by:
 
-|                                                                                                                     | Name            | Role                         | GitHub Handle   |
-|---------------------------------------------------------------------------------------------------------------------|-----------------|------------------------------|-----------------|
-| <img src="https://github.com/thomasarivera.png" alt="Thomas" width="100" height="100" style="border-radius: 50%;">  | Thomas Rivera   | Chief Solutions Architect    | @thomasarivera  |
-| <img src="https://github.com/sierranmorales.png" alt="Sierra" width="100" height="100" style="border-radius: 50%;"> | Sierra Morales  | UX Dev and Design Lead       | @sierranmorales |
-| <img src="https://github.com/aldenparoni.png" alt="Alden" width="100" height="100" style="border-radius: 50%;">     | Alden Paroni    | Development Lead             | @aldenparoni    |
-| <img src="https://github.com/Jchen20-1.png" alt="Jiawen" width="100" height="100" style="border-radius: 50%;">      | Jiawen Chen     | Database Lead                | @Jchen20-1      |
-| <img src="https://github.com/jianleliu.png" alt="Jianle" width="100" height="100" style="border-radius: 50%;">      | Jianle Liu      | Integrations Lead            | @jianleliu      |
-| <img src="https://github.com/hokwaichan.png" alt="Hokwai" width="100" height="100" style="border-radius: 50%;">     | HokWai Chan     | Testing Lead                 | @hokwaichan     |
-| <img src="https://github.com/ryanseng32.png" alt="Jianle" width="100" height="100" style="border-radius: 50%;">     | Ryan Seng Liu   | Systems Reliability Engineer | @ryanseng32     |
+|                                                                                                                     | Name        | Role                         | GitHub Handle   |
+|---------------------------------------------------------------------------------------------------------------------|-------------|------------------------------|-----------------|
+| <img src="https://github.com/thomasarivera.png" alt="Thomas" width="100" height="100" style="border-radius: 50%;">  | Thomas Rivera | Chief Solutions Architect    | @thomasarivera  |
+| <img src="https://github.com/sierranmorales.png" alt="Sierra" width="100" height="100" style="border-radius: 50%;"> | Sierra Morales | UX Dev and Design Lead       | @sierranmorales |
+| <img src="https://github.com/aldenparoni.png" alt="Alden" width="100" height="100" style="border-radius: 50%;">     | Alden Paroni | Development Lead             | @aldenparoni    |
+| <img src="https://github.com/Jchen20-1.png" alt="Jiawen" width="100" height="100" style="border-radius: 50%;">      | Jiawen Chen | Database Lead                | @Jchen20-1      |
+| <img src="https://github.com/jianleliu.png" alt="Jianle" width="100" height="100" style="border-radius: 50%;">      | Jianle Liu  | Integrations Lead            | @jianleliu      |
+| <img src="https://github.com/hokwaichan.png" alt="Hokwai" width="100" height="100" style="border-radius: 50%;">     | HokWai Chan | Testing Lead                 | @hokwaichan     |
+| <img src="https://github.com/ryanseng32.png" alt="Jianle" width="100" height="100" style="border-radius: 50%;">     | Ryan Seng   | Systems Reliability Engineer | @ryanseng32     |
 | <img src="https://github.com/willjsimmons.png" alt="William" width="100" height="100" style="border-radius: 50%;">  | William Simmons | Scrum-Master                 | @willjsimmons   |
 
  
