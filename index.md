@@ -4,6 +4,7 @@
 * [Voluntree Overview](#overview)
 * [Goals](#goals)
 * [Application Design](#application-design)
+* [Development History](#development-history)
 * [Team](#team)
 
 ## Overview
@@ -32,6 +33,17 @@ The following describes the design process of our app:
 
 ### Home Page Mockup
 <img src="images/Home-Mockup.jpg" width="750px">
+
+## Development History
+
+The following describes the development process of our app:
+
+### Milestone 1: Basic User Needs and Page Mockups
+The goal of milestone 1 was to create a work flow for the app to identify its main features to solve the problem of matching volunteers with organizations. We focused on creating a mockup of the app’s UI and database.
+
+Milestone 1 was managed using [Voluntree GitHub Project Board M1](https://github.com/orgs/Ube-Dev/projects/1/views/2)
+
+<img src="images/M1.png" width="750px">
 
 ## Team
 Volntree is designed and developed by:
