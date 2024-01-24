@@ -29,10 +29,36 @@ Voluntree aims to provide the following features:
 The following describes the design process of our app:
 
 ### Landing Page Mockup
-<img src="images/Landing-Mockup.jpg" width="750px">
+This is the page that all users will go to when they first visit the site. 
+![](./images/Landing-Mockup.png)
+![](./images/Landing2-Mockup.png)
+
+### Register/Login Page
+Users can then choose to sign in or sign up through the dropdown at the top right, or by clicking the Sign In or Register buttons on the landing page. 
+![](./images/Signup-Mockup.png)
+![](./images/Login-Mockup.png)
 
 ### Home Page Mockup
-<img src="images/Home-Mockup.jpg" width="750px">
+After logging in, users will see the home page, where they get to see a brief overview of their dashboard and stats. They also see the event search bar, where they can search for events. 
+![](./images/Home-Mockup.png)
+![](./images/Home2-Mockup.png)
+
+### About Us Page
+The about page shows the users what Voluntree's mission is, as well as contact information.
+![](./images/About-Mockup.png)
+![](./images/About2-Mockup.png)
+
+### FAQ Page
+Here, the users can see any frequently asked questions, and get quick answers to help them better understand how the site and Voluntree operates. 
+![](./images/FAQ-Mockup.png)
+
+### Events Page Mockup
+In the events page, users can see all available events laid out in card form, with additional information such as skills required to help out at the event, as well as the button to actually join the event. 
+![](./images/Events-Mockup.png)
+
+### Dashboard Page Mockup
+Lastly, users can go to the dashboard page for a detailed chart of their stats and performances ![](./images/Dashboard-Mockup.png)
+![](./images/Dashboard2-Mockup.png)
 
 ## Development History
 
