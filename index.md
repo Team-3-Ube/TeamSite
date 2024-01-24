@@ -4,6 +4,9 @@
 * [Voluntree Overview](#overview)
 * [Goals](#goals)
 * [Application Design](#application-design)
+* [Developer Guide](#developer-guide)
+  * [Continuous Integration](#continuous-integration)
+  * [Installation](#installation)
 * [Development History](#development-history)
 * [Team](#team)
 
@@ -24,6 +27,9 @@ Voluntree aims to provide the following features:
 * Volunteer Profile
 * Organization Profile
 * Volunteer Opportunities Posting
+* Volunteer Opportunities Search
+* Volunteer Opportunities committing
+* Communication between Volunteers and Organizations
 
 ## Application Design
 The following describes the design process of our app:
@@ -59,6 +65,30 @@ In the events page, users can see all available events laid out in card form, wi
 ### Dashboard Page Mockup
 Lastly, users can go to the dashboard page for a detailed chart of their stats and performances ![](./images/Dashboard-Mockup.png)
 ![](./images/Dashboard2-Mockup.png)
+
+## Developer Guide
+
+### Continuous Integration
+
+[![ci-Voluntree](https://github.com/Ube-Dev/Voluntree/actions/workflows/ci.yml/badge.svg)](https://github.com/Ube-Dev/Voluntree/actions/workflows/ci.yml)
+
+The Voluntree uses GitHub Actions to automatically run ESLint and TestCafe each time a commit is made to the default branch. You can see the results of all recent “workflows” at https://github.com/Ube-Dev/Voluntree/actions.
+
+### Installation
+
+First, install Meteor.
+
+Second, visit the [Voluntree](https://github.com/Ube-Dev/Voluntree) application GitHub page, and click the “Use this template” button to create your own repository initialized with a copy of this application. Alternatively, you can download the sources as a zip file or make a fork of the repo. However you do it, download a copy of the repo to your local computer.
+
+Third, in your terminal cd into the Voluntree/app directory and install libraries with:
+
+> $ meteor npm install
+
+Fourth, run the system with:
+
+> $ meteor npm run start
+
+If all goes well, the application will appear at http://localhost:3000.
 
 ## Development History
 
