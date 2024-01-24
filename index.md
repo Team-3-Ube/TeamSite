@@ -31,10 +31,6 @@ Voluntree aims to provide the following features:
 * Volunteer Opportunities committing
 * Communication between Volunteers and Organizations
 
-## Milestones
-<a href="https://github.com/orgs/Ube-Dev/projects/1">M1</a>
-<a href="https://github.com/orgs/Ube-Dev/projects/2">M2</a>
-
 ## Application Design
 The following describes the design process of our app:
 
