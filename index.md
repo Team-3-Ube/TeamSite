@@ -49,6 +49,8 @@ After logging in, users will see the home page, where they get to see a brief ov
 ![](./images/Home-Mockup.png)
 ![](./images/Home2-Mockup.png)
 
+<hr />
+
 #### M2 Update:
 With this iteration of the home page, users will now be able to see information about themselves, the number of hours volunteered, and change their profile picture. A working calendar is now implemented to show future events the user has signed up for.
 ![](./images/M2-Homepage.png)
