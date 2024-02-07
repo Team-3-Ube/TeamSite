@@ -49,18 +49,34 @@ After logging in, users will see the home page, where they get to see a brief ov
 ![](./images/Home-Mockup.png)
 ![](./images/Home2-Mockup.png)
 
+#### M2 Update:
+With this iteration of the home page, users will now be able to see information about themselves, the number of hours volunteered, and change their profile picture. A working calendar is now implemented to show future events the user has signed up for.
+![](./images/M2-Homepage.png)
+
 ### About Us Page
 The about page shows the users what Voluntree's mission is, as well as contact information.
 ![](./images/About-Mockup.png)
 ![](./images/About2-Mockup.png)
 
+#### M2 Update:
+The about us page allows users to submit inquiries through a built-in form, eliminating the hassle of going through a separate app to contact the team.
+![](./images/M2-About2.png)
+
 ### FAQ Page
 Here, the users can see any frequently asked questions, and get quick answers to help them better understand how the site and Voluntree operates. 
 ![](./images/FAQ-Mockup.png)
 
+#### M2 Update:
+The FAQ page has changed to have slightly different styling.
+![](./images/M2-FAQ.png)
+
 ### Events Page Mockup
 In the events page, users can see all available events laid out in card form, with additional information such as skills required to help out at the event, as well as the button to actually join the event. 
 ![](./images/Events-Mockup.png)
+
+#### M2 Update:
+The new and improved events page allows for a functional search bar to filter through events by keywords. The event cards now also are more uniformly sized and allow space for a cover picture.
+![](./images/M2-FindEvents.png)
 
 ### Dashboard Page Mockup
 Lastly, users can go to the dashboard page for a detailed chart of their stats and performances ![](./images/Dashboard-Mockup.png)
@@ -100,6 +116,12 @@ The goal of milestone 1 was to create a work flow for the app to identify its ma
 Milestone 1 was managed using [Voluntree GitHub Project Board M1](https://github.com/orgs/Ube-Dev/projects/1/views/2)
 
 <img src="images/M1.png" width="750px">
+
+### Milestone 2: Databases and Rendering
+Further implementation of the databases of events and users were the forefront of this milestone. Being able to display default events and understanding how to create, update, and remove certain items in the collections allowed us to have a more functioning website.
+
+Milestone 2 was managed using [Voluntree GitHub Project Board M2](https://github.com/orgs/Ube-Dev/projects/3)
+![](./images/M2-ProjectBoard.png)
 
 ## Team
 Volntree is designed and developed by:
