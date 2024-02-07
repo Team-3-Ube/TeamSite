@@ -58,6 +58,8 @@ The about page shows the users what Voluntree's mission is, as well as contact i
 ![](./images/About-Mockup.png)
 ![](./images/About2-Mockup.png)
 
+<hr />
+
 #### M2 Update:
 The about us page allows users to submit inquiries through a built-in form, eliminating the hassle of going through a separate app to contact the team.
 ![](./images/M2-About2.png)
@@ -66,6 +68,8 @@ The about us page allows users to submit inquiries through a built-in form, elim
 Here, the users can see any frequently asked questions, and get quick answers to help them better understand how the site and Voluntree operates. 
 ![](./images/FAQ-Mockup.png)
 
+<hr />
+
 #### M2 Update:
 The FAQ page has changed to have slightly different styling.
 ![](./images/M2-FAQ.png)
@@ -73,6 +77,8 @@ The FAQ page has changed to have slightly different styling.
 ### Events Page Mockup
 In the events page, users can see all available events laid out in card form, with additional information such as skills required to help out at the event, as well as the button to actually join the event. 
 ![](./images/Events-Mockup.png)
+
+<hr />
 
 #### M2 Update:
 The new and improved events page allows for a functional search bar to filter through events by keywords. The event cards now also are more uniformly sized and allow space for a cover picture.
@@ -116,6 +122,8 @@ The goal of milestone 1 was to create a work flow for the app to identify its ma
 Milestone 1 was managed using [Voluntree GitHub Project Board M1](https://github.com/orgs/Ube-Dev/projects/1/views/2)
 
 <img src="images/M1.png" width="750px">
+
+<hr />
 
 ### Milestone 2: Databases and Rendering
 Further implementation of the databases of events and users were the forefront of this milestone. Being able to display default events and understanding how to create, update, and remove certain items in the collections allowed us to have a more functioning website.
