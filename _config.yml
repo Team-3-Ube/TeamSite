@@ -1,7 +1,7 @@
 title: Ube-Dev
 description: A volunteer management system that matches willing volunteers with nonprofits, and other organizations.
 show_downloads: false
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minima
 github:
   is_project_page: true
   repository_url: #
