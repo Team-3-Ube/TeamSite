@@ -63,6 +63,10 @@ Users can then choose to sign in or sign up through the dropdown at the top righ
 After logging in, users will see the home page. They have access to a brief overview of their dashboard and stats. They can also see their upcoming events and a calendar of events. Easy access to the events page and user profile is also available.
 ![](./images/M3/Home.png)
 
+### User Profile Page
+Users can view and edit their profile. They can see their stats, committed events, and their organization if they have one. They can also edit their profile information and change their password.
+![](./images/M3/UserProfile.png)
+
 ### Dashboard Page Mockup
 Users with organizations can go to the dashboard page for a detailed overview of their stats and performances. They can also see their upcoming events and a calendar of events. Easy access to the events page and organization profile is also available.
 ![](./images/Dashboard-Mockup.png)
@@ -150,4 +154,3 @@ Please email [wjs7@hawaii.edu](wjs7@hawaii.edu) for any inquiries.
 
 ---
 <!---------------------------------------------------------------------------->
-
