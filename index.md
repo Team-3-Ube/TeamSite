@@ -41,7 +41,7 @@ The landing page is presented to users when they first visit the site. It provid
 ![](./images/Landing2-Mockup.png)
 
 ### About Us Page
-The about page shows the users what Voluntree's mission is, and how it can help their community. It provides contact infomration and a message form for users to reach out to the team.
+The about page shows the users what Voluntree's mission is, and how it can help their community. It provides contact information and a message form for users to reach out to the team.
 ![](./images/About-Mockup.png)
 ![](./images/M2-About2.png)
 
@@ -110,6 +110,12 @@ Further implementation of the databases of events and users were the forefront o
 
 Milestone 2 was managed using [Voluntree GitHub Project Board M2](https://github.com/orgs/Ube-Dev/projects/3)
 ![](./images/M2-ProjectBoard.png)
+
+### Milestone 3: Event Commitment and Creation
+The third milestone was focused on the ability for users to commit to events and for organizations to create events. Improvements to overall user experience and user interface were also made. Users can now view and edit profiles, committed events, and organization profiles.
+
+Milestone 3 was managed using [Voluntree GitHub Project Board M3](https://github.com/orgs/Ube-Dev/projects/5)
+![](./images/M3-ProjectBoard.png)
 
 ## Team
 Volntree is designed and developed by:
