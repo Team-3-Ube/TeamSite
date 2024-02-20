@@ -33,12 +33,20 @@ Voluntree aims to provide the following features:
 * Organization statistics
 
 ## User Guide
-The following describes the design process of our app:
+This section provides a walkthrough of the Voluntree web app including its user interface and its capabilities.
 
-### Landing Page Mockup
-This is the page that all users will go to when they first visit the site. 
+### Landing Page
+The landing page is presented to users when they first visit the site. It provides a brief overview and purpose of the app.
 ![](./images/Landing-Mockup.png)
 ![](./images/Landing2-Mockup.png)
+
+### About Us Page
+The about page shows the users what Voluntree's mission is, and how it can help their community. It provides contact infomration and a message form for users to reach out to the team.
+![](./images/About-Mockup.png)
+![](./images/M2-About2.png)
+### FAQ Page
+Here, the users can see any frequently asked questions, and get quick answers to help them better understand how the site and Voluntree operates.
+![](./images/FAQ-Mockup.png)
 
 ### Register/Login Page
 Users can then choose to sign in or sign up through the dropdown at the top right, or by clicking the Sign In or Register buttons on the landing page. 
@@ -56,22 +64,6 @@ After logging in, users will see the home page, where they get to see a brief ov
 With this iteration of the home page, users will now be able to see information about themselves, the number of hours volunteered, and change their profile picture. A working calendar is now implemented to show future events the user has signed up for.
 ![](./images/M2-Homepage.png)
 
-### About Us Page
-The about page shows the users what Voluntree's mission is, as well as contact information.
-![](./images/About-Mockup.png)
-![](./images/About2-Mockup.png)
-
-<hr />
-
-#### M2 Update:
-The about us page allows users to submit inquiries through a built-in form, eliminating the hassle of going through a separate app to contact the team.
-![](./images/M2-About2.png)
-
-### FAQ Page
-Here, the users can see any frequently asked questions, and get quick answers to help them better understand how the site and Voluntree operates. 
-![](./images/FAQ-Mockup.png)
-
-<hr />
 
 #### M2 Update:
 The FAQ page has changed to have slightly different styling.
