@@ -44,9 +44,10 @@ The landing page is presented to users when they first visit the site. It provid
 The about page shows the users what Voluntree's mission is, and how it can help their community. It provides contact infomration and a message form for users to reach out to the team.
 ![](./images/About-Mockup.png)
 ![](./images/M2-About2.png)
+
 ### FAQ Page
-Here, the users can see any frequently asked questions, and get quick answers to help them better understand how the site and Voluntree operates.
-![](./images/FAQ-Mockup.png)
+Here, users can see any frequently asked questions, and get quick answers to better understand how the app and Voluntree operates.
+![](./images/M2-FAQ.png)
 
 ### Register/Login Page
 Users can then choose to sign in or sign up through the dropdown at the top right, or by clicking the Sign In or Register buttons on the landing page. 
@@ -64,10 +65,6 @@ After logging in, users will see the home page, where they get to see a brief ov
 With this iteration of the home page, users will now be able to see information about themselves, the number of hours volunteered, and change their profile picture. A working calendar is now implemented to show future events the user has signed up for.
 ![](./images/M2-Homepage.png)
 
-
-#### M2 Update:
-The FAQ page has changed to have slightly different styling.
-![](./images/M2-FAQ.png)
 
 ### Events Page Mockup
 In the events page, users can see all available events laid out in card form, with additional information such as skills required to help out at the event, as well as the button to actually join the event. 
