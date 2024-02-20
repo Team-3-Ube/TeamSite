@@ -59,25 +59,13 @@ Users can then choose to sign in or sign up through the dropdown at the top righ
 ![](./images/Signup-Mockup.png)
 ![](./images/Login-Mockup.png)
 
-### Home Page Mockup
-After logging in, users will see the home page, where they get to see a brief overview of their dashboard and stats. They also see the event search bar, where they can search for events. 
-![](./images/Home-Mockup.png)
-![](./images/Home2-Mockup.png)
-
-<hr />
-
-#### M2 Update:
-With this iteration of the home page, users will now be able to see information about themselves, the number of hours volunteered, and change their profile picture. A working calendar is now implemented to show future events the user has signed up for.
-![](./images/M2-Homepage.png)
-
-<hr />
-
-#### M2 Update:
-The new and improved events page allows for a functional search bar to filter through events by keywords. The event cards now also are more uniformly sized and allow space for a cover picture.
-![](./images/M2-FindEvents.png)
+### Home Page
+After logging in, users will see the home page. They have access to a brief overview of their dashboard and stats. They can also see their upcoming events and a calendar of events. Easy access to the events page and user profile is also available.
+![](./images/M3/Home.png)
 
 ### Dashboard Page Mockup
-Lastly, users can go to the dashboard page for a detailed chart of their stats and performances ![](./images/Dashboard-Mockup.png)
+Users with organizations can go to the dashboard page for a detailed overview of their stats and performances. They can also see their upcoming events and a calendar of events. Easy access to the events page and organization profile is also available.
+![](./images/Dashboard-Mockup.png)
 ![](./images/Dashboard2-Mockup.png)
 
 ## Developer Guide
