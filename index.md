@@ -56,8 +56,8 @@ Without needing to log in, users can freely browse available events. To join an 
 
 ### Register/Login Page
 Users can then choose to sign in or sign up through the dropdown at the top right, or by clicking the Sign In or Register buttons on the landing page. 
-![](./images/Signup-Mockup.png)
-![](./images/Login-Mockup.png)
+![](./images/M3/SignIn.png)
+![](./images/M3/Register.png)
 
 ### Home Page
 After logging in, users will see the home page. They have access to a brief overview of their dashboard and stats. They can also see their upcoming events and a calendar of events. Easy access to the events page and user profile is also available.
