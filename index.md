@@ -18,7 +18,7 @@
 
 ### What Is Voluntree?
 
-Voluntree is a volunteer management system that helps match willing volunteers with nonprofits, and other organizations. Currently, there is no easy way for volunteers to find organizations that need their help. Voluntree aims to solve this problem by providing a platform for organizations to post their volunteer opportunities and for volunteers to find them. Voluntree is a web application that is accessible from any device with a web browser.
+Voluntree is a volunteer management system that matches willing volunteers with nonprofits, and other organizations. Currently, there is no easy way for volunteers to find organizations that need their help. Voluntree aims to solve this problem by providing a platform for organizations to post their volunteer opportunities and for volunteers to find them. Voluntree is a web application that is accessible from any device with a web browser.
 
 ## Goals
 
@@ -30,8 +30,9 @@ Voluntree aims to provide the following features:
 * Volunteer Opportunities Search
 * Volunteer Opportunities committing
 * Communication between Volunteers and Organizations
+* Organization statistics
 
-## Application Design
+## User Guide
 The following describes the design process of our app:
 
 ### Landing Page Mockup
