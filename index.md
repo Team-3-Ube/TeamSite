@@ -49,6 +49,11 @@ The about page shows the users what Voluntree's mission is, and how it can help 
 Here, users can see any frequently asked questions, and get quick answers to better understand how the app and Voluntree operates.
 ![](./images/M2-FAQ.png)
 
+### Find Events Page
+Without needing to log in, users can freely browse available events. To join an event, users can click on the event card and click the "Commit" button. If not logged in, they will be prompted to log in or register. Events can be searched for by name, location, organization, or description. To maintain focus, search results are limited to 9 events  and uses pagination to navigate through the results.
+![](./images/M3/FindEvent.png)
+![](./images/M3/FindEventPagination.png)
+
 ### Register/Login Page
 Users can then choose to sign in or sign up through the dropdown at the top right, or by clicking the Sign In or Register buttons on the landing page. 
 ![](./images/Signup-Mockup.png)
@@ -64,11 +69,6 @@ After logging in, users will see the home page, where they get to see a brief ov
 #### M2 Update:
 With this iteration of the home page, users will now be able to see information about themselves, the number of hours volunteered, and change their profile picture. A working calendar is now implemented to show future events the user has signed up for.
 ![](./images/M2-Homepage.png)
-
-
-### Events Page Mockup
-In the events page, users can see all available events laid out in card form, with additional information such as skills required to help out at the event, as well as the button to actually join the event. 
-![](./images/Events-Mockup.png)
 
 <hr />
 
