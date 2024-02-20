@@ -119,7 +119,7 @@ Milestone 2 was managed using [Voluntree GitHub Project Board M2](https://github
 The third milestone was focused on the ability for users to commit to events and for organizations to create events. Improvements to overall user experience and user interface were also made. Users can now view and edit profiles, committed events, and organization profiles.
 
 Milestone 3 was managed using [Voluntree GitHub Project Board M3](https://github.com/orgs/Ube-Dev/projects/5)
-![](./images/M3-ProjectBoard.png)
+![](./images/M3/M3-ProjectBoard.png)
 
 ## Team
 Volntree is designed and developed by:
