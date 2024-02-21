@@ -72,7 +72,7 @@ Users with organizations can go to the dashboard page for a detailed overview of
 ![](./images/Dashboard-Mockup.png)
 ![](./images/Dashboard2-Mockup.png)
 
-## Add Event Page Mockup
+### Add Event Page Mockup
 Organizations can create new events which will show up on the Find Events Page for users to browse through.
 ![](./images/M3/AddEvent-Mockup.png)
 ![](./images/M3/AddEvent2-Mockup.png)
