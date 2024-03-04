@@ -47,12 +47,17 @@ The about page shows the users what Voluntree's mission is, and how it can help 
 
 ### FAQ Page
 Here, users can see any frequently asked questions, and get quick answers to better understand how the app and Voluntree operates.
-![](./images/M2-FAQ.png)
+![](./images/M4/FAQ.png)
 
 ### Find Events Page
 Without needing to log in, users can freely browse available events. To join an event, users can click on the event card and click the "Commit" button. If not logged in, they will be prompted to log in or register. Events can be searched for by name, location, organization, or description. To maintain focus, search results are limited to 9 events  and uses pagination to navigate through the results.
 ![](./images/M3/FindEvent.png)
 ![](./images/M3/FindEventPagination.png)
+
+### Event Page
+After selecting an event, users are taken to the event page. Here, they can see event details, location, and organization. They can also see the event's description, date, and time. Users can also commit to the event and have a quick contact button to reach out to the organization.
+
+![](./images/M4/eventPage.png)
 
 ### Register/Login Page
 Users can then choose to sign in or sign up through the dropdown at the top right, or by clicking the Sign In or Register buttons on the landing page. 
@@ -66,6 +71,16 @@ After logging in, users will see the home page. They have access to a brief over
 ### User Profile Page
 Users can view and edit their profile. They can see their stats, committed events, and their organization if they have one. They can also edit their profile information and change their password.
 ![](./images/M3/UserProfile.png)
+
+### Edit User Profile Page
+Users can edit their profile information.
+
+![](./images/M4/EditUserProfile.png)
+
+### Create Orgainzation Page
+Users can create an organization and fill out the necessary information to get started.
+
+![](./images/M4/CreateOrganization.png)
 
 ### Dashboard Page Mockup
 Users with organizations can go to the dashboard page for a detailed overview of their stats and performances. They can also see their upcoming events and a calendar of events. Easy access to the events page and organization profile is also available.
