@@ -84,10 +84,10 @@ Users can create an organization and fill out the necessary information to get s
 
 ### Dashboard Page Mockup
 Users with organizations can go to the dashboard page for a detailed overview of their stats and performances. They can also see their upcoming events and a calendar of events. Easy access to the events page and organization profile is also available.
-![](./images/Dashboard-Mockup.png)
+![](./images/M4/OrganizationDashboard.png)
 ![](./images/Dashboard2-Mockup.png)
 
-### Add Event Page Mockup
+### Add Event Page
 Organizations can create new events which will show up on the Find Events Page for users to browse through.
 ![](./images/M3/AddEvent-Mockup.png)
 ![](./images/M3/AddEvent2-Mockup.png)
@@ -137,10 +137,16 @@ Milestone 2 was managed using [Voluntree GitHub Project Board M2](https://github
 ![](./images/M2-ProjectBoard.png)
 
 ### Milestone 3: Event Commitment and Creation
-The third milestone was focused on the ability for users to commit to events and for organizations to create events. Improvements to overall user experience and user interface were also made. Users can now view and edit profiles, committed events, and organization profiles.
+The third milestone was focused on the ability for users to commit to events and for organizations to create events. Improvements to overall user experience and user interface were also made. Users can now view and edit profiles and committed events.
 
 Milestone 3 was managed using [Voluntree GitHub Project Board M3](https://github.com/orgs/Ube-Dev/projects/5)
 ![](./images/M3/M3-ProjectBoard.png)
+
+### Milestone 4: Organization Creation, UI improvements, and Bug Fixes
+The fourth milestone was focused on the ability for users to create organizations and for organizations to view their dashboard. Improvements to overall user experience and user interface were also made.
+
+Milestone 4 was managed using [Voluntree GitHub Project Board M4](https://github.com/orgs/Ube-Dev/projects/9/views/1)
+![](./images/M4/M4ProjectBoard.png)
 
 ## Team
 Volntree is designed and developed by:
