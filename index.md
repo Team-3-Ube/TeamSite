@@ -3,7 +3,6 @@
 ## Table of Contents
 * [Voluntree Overview](#overview)
 * [Goals](#goals)
-* [Application Design](#application-design)
 * [Developer Guide](#developer-guide)
   * [Continuous Integration](#continuous-integration)
   * [Installation](#installation)
@@ -97,6 +96,12 @@ Organizations can create new events which will show up on the Find Events Page f
 ![](./images/M5/CreateEvent1.png)
 ![](./images/M5/CreateEvent2.png)
 
+### Edit & Delete Event Page
+Organizations can edit and delete events they have created. They can change the event information and delete the event if necessary.
+![](./images/M5/EditEvent1.png)
+![](./images/M5/EditEvent2.png)
+
+
 ## Developer Guide
 
 ### Continuous Integration
@@ -149,6 +154,12 @@ The fourth milestone was focused on the ability for users to create organization
 
 Milestone 4 was managed using [Voluntree GitHub Project Board M4](https://github.com/orgs/Ube-Dev/projects/9/views/1)
 ![](./images/M4/M4ProjectBoard.png)
+
+### Milestone 5: Organizations, Events, and User Sign Up
+The fifth milestone was focused on the ability for users to sign-up after accepting a TOS and organizations to create, edit, and delete events. Improvements to overall user experience and user interface were also made.
+
+Milestone 5 was managed using [Voluntree GitHub Project Board M5](https://github.com/orgs/Ube-Dev/projects/10/views/1)
+![](./images/M5/M5ProjectBoard.png)
 
 ## Team
 Voluntree is designed and developed by:
