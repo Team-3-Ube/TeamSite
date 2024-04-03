@@ -36,14 +36,20 @@ Voluntree aims to provide the following features:
 This section provides a walkthrough of the Voluntree web app including its user interface and its capabilities.
 
 ### Landing Page
-The landing page is presented to users when they first visit the site. It provides a brief overview and purpose of the app.
-![](./images/Landing-Mockup.png)
-![](./images/Landing2-Mockup.png)
+The landing page is presented to users when they first visit the site. It provides a brief overview and purpose of the app. It encorages the user to sign-up, log-in, or explore the events page to get started.
+![](./images/M5/Landing1.png)
+![](./images/M5/Landing2.png)
+![](./images/M5/Landing3.png)
 
 ### About Us Page
 The about page shows the users what Voluntree's mission is, and how it can help their community. It provides contact information and a message form for users to reach out to the team.
 ![](./images/About-Mockup.png)
 ![](./images/M2-About2.png)
+
+### Subscribe Page
+The subscribe page promotes and encourages users to become a member and donate to the Voluntree.
+![](./images/M5/SubscribePage1.png)
+![](./images/M5/SubscribePage2.png)
 
 ### FAQ Page
 Here, users can see any frequently asked questions, and get quick answers to better understand how the app and Voluntree operates.
