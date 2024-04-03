@@ -36,7 +36,7 @@ Voluntree aims to provide the following features:
 This section provides a walkthrough of the Voluntree web app including its user interface and its capabilities.
 
 ### Landing Page
-The landing page is presented to users when they first visit the site. It provides a brief overview and purpose of the app. It encorages the user to sign-up, log-in, or explore the events page to get started.
+The landing page is presented to users when they first visit the site. It provides a brief overview and purpose of the app. It encourages the user to sign-up, log-in, or explore the events page to get started.
 ![](./images/M5/Landing1.png)
 ![](./images/M5/Landing2.png)
 ![](./images/M5/Landing3.png)
@@ -56,9 +56,8 @@ Here, users can see any frequently asked questions, and get quick answers to bet
 ![](./images/M4/FAQ.png)
 
 ### Find Events Page
-Without needing to log in, users can freely browse available events. To join an event, users can click on the event card and click the "Commit" button. If not logged in, they will be prompted to log in or register. Events can be searched for by name, location, organization, or description. To maintain focus, search results are limited to 9 events  and uses pagination to navigate through the results.
-![](./images/M3/FindEvent.png)
-![](./images/M3/FindEventPagination.png)
+Without needing to log in, users can freely browse available events. To join an event, users can click on the event card and click the "Commit" button. If not logged in, they will be prompted to log in or register. Events can be searched for by name, location, organization, or description. A filter is also available to sort events by categories such as "Environmental Conservation." To maintain focus, search results are limited to 9 events  and uses pagination to navigate through the results.
+![](./images/M5/FindEvent1.png)
 
 ### Event Page
 After selecting an event, users are taken to the event page. Here, they can see event details, location, and organization. They can also see the event's description, date, and time. Users can also commit to the event and have a quick contact button to reach out to the organization.
@@ -83,7 +82,7 @@ Users can edit their profile information.
 
 ![](./images/M4/EditUserProfile.png)
 
-### Create Orgainzation Page
+### Create Organization Page
 Users can create an organization and fill out the necessary information to get started.
 
 ![](./images/M4/CreateOrganization.png)
@@ -94,10 +93,9 @@ Users with organizations can go to the dashboard page for a detailed overview of
 ![](./images/Dashboard2-Mockup.png)
 
 ### Add Event Page
-Organizations can create new events which will show up on the Find Events Page for users to browse through.
-![](./images/M3/AddEvent-Mockup.png)
-![](./images/M3/AddEvent2-Mockup.png)
-![](./images/M3/AddEvent3-Mockup.png)
+Organizations can create new events which will show up on the Find Events Page for users to browse through. They can fill out the event information and add a description, date, time, and location. Host details and contact information are automatically filled out based on the selected organization.
+![](./images/M5/CreateEvent1.png)
+![](./images/M5/CreateEvent2.png)
 
 ## Developer Guide
 
@@ -132,9 +130,7 @@ The goal of milestone 1 was to create a work flow for the app to identify its ma
 
 Milestone 1 was managed using [Voluntree GitHub Project Board M1](https://github.com/orgs/Ube-Dev/projects/1/views/2)
 
-<img src="images/M1.png" width="750px">
-
-<hr />
+![](./images/M1.png)
 
 ### Milestone 2: Databases and Rendering
 Further implementation of the databases of events and users were the forefront of this milestone. Being able to display default events and understanding how to create, update, and remove certain items in the collections allowed us to have a more functioning website.
@@ -155,7 +151,7 @@ Milestone 4 was managed using [Voluntree GitHub Project Board M4](https://github
 ![](./images/M4/M4ProjectBoard.png)
 
 ## Team
-Volntree is designed and developed by:
+Voluntree is designed and developed by:
 
 |                                                                                                                     | Name        | Role                         | GitHub Handle   |
 |---------------------------------------------------------------------------------------------------------------------|-------------|------------------------------|-----------------|
