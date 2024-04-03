@@ -89,8 +89,8 @@ Users can create an organization and fill out the necessary information to get s
 
 ### Dashboard Page Mockup
 Users with organizations can go to the dashboard page for a detailed overview of their stats and performances. They can also see their upcoming events and a calendar of events. Easy access to the events page and organization profile is also available.
-![](./images/M4/OrganizationDashboard.png)
-![](./images/Dashboard2-Mockup.png)
+![](./images/M5/OrgDashboard1.png)
+![](./images/M5/OrgDashboard2.png)
 
 ### Add Event Page
 Organizations can create new events which will show up on the Find Events Page for users to browse through. They can fill out the event information and add a description, date, time, and location. Host details and contact information are automatically filled out based on the selected organization.
