@@ -148,6 +148,10 @@ Admins can view all organizations created by users. They can see the organizatio
 Admins can view all users that have registered on the app. They can see the user details. They can also edit and delete users if necessary.
 ![](./images/M6/AdminUserModeration.png)
 
+### Admin Review Management
+Admins can view all reviews that have been left by users. They can see the review details and the user that left the review. They can also delete reviews if necessary.
+![](./images/M6/AdminReviewModeration.png)
+
 ## Developer Guide
 
 ### Continuous Integration
