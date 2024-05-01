@@ -11,9 +11,9 @@
 
 ## Overview
 
-1. Voluntree Proof Of Concept: [Voluntree](#) 
+1. Voluntree Proof Of Concept: [Voluntree](https://github.com/Ube-Dev/Voluntree) 
 
-<img src="images/Logo.png">
+<img src="images/Logo.png" alt="Voluntree Logo">
 
 ### What Is Voluntree?
 
@@ -35,10 +35,10 @@ Voluntree aims to provide the following features:
 This section provides a walkthrough of the Voluntree web app including its user interface and its capabilities.
 
 ### Landing Page
-The landing page is presented to users when they first visit the site. It provides a brief overview and purpose of the app. It encourages the user to sign-up, log-in, or explore the events page to get started.
+The landing page is presented to users when they first visit the site. It provides a brief overview and purpose of the app. It encourages the user to sign-up, log-in, or explore the events page to get started. A mailing list button is also available for users to subscribe to the Voluntree newsletter.
 ![](./images/M5/Landing1.png)
 ![](./images/M5/Landing2.png)
-![](./images/M5/Landing3.png)
+![](./images/M6/Landing3.png)
 
 ### About Us Page
 The about page shows the users what Voluntree's mission is, and how it can help their community. It provides contact information and a message form for users to reach out to the team.
@@ -166,15 +166,15 @@ Milestone 5 was managed using [Voluntree GitHub Project Board M5](https://github
 ## Team
 Voluntree is designed and developed by:
 
-|                                                                                                                     | Name        | Role                         | GitHub Handle   |
-|---------------------------------------------------------------------------------------------------------------------|-------------|------------------------------|-----------------|
-| <img src="https://github.com/thomasarivera.png" alt="Thomas" width="100" height="100" style="border-radius: 50%;">  | Thomas Rivera | Chief Solutions Architect    | @thomasarivera  |
-| <img src="https://github.com/sierranmorales.png" alt="Sierra" width="100" height="100" style="border-radius: 50%;"> | Sierra Morales | UX Dev and Design Lead       | @sierranmorales |
-| <img src="https://github.com/aldenparoni.png" alt="Alden" width="100" height="100" style="border-radius: 50%;">     | Alden Paroni | Development Lead             | @aldenparoni    |
-| <img src="https://github.com/Jchen20-1.png" alt="Jiawen" width="100" height="100" style="border-radius: 50%;">      | Jiawen Chen | Database Lead                | @Jchen20-1      |
-| <img src="https://github.com/jianleliu.png" alt="Jianle" width="100" height="100" style="border-radius: 50%;">      | Jianle Liu  | Integrations Lead            | @jianleliu      |
-| <img src="https://github.com/hokwaichan.png" alt="Hokwai" width="100" height="100" style="border-radius: 50%;">     | HokWai Chan | Testing Lead                 | @hokwaichan     |
-| <img src="https://github.com/ryanseng32.png" alt="Jianle" width="100" height="100" style="border-radius: 50%;">     | Ryan Seng   | Systems Reliability Engineer | @ryanseng32     |
+|                                                                                                                     | Name            | Role                         | GitHub Handle   |
+|---------------------------------------------------------------------------------------------------------------------|-----------------|------------------------------|-----------------|
+| <img src="https://github.com/thomasarivera.png" alt="Thomas" width="100" height="100" style="border-radius: 50%;">  | Thomas Rivera   | Chief Solutions Architect    | @thomasarivera  |
+| <img src="https://github.com/sierranmorales.png" alt="Sierra" width="100" height="100" style="border-radius: 50%;"> | Sierra Morales  | UX Dev and Design Lead       | @sierranmorales |
+| <img src="https://github.com/aldenparoni.png" alt="Alden" width="100" height="100" style="border-radius: 50%;">     | Alden Paroni    | Development Lead             | @aldenparoni    |
+| <img src="https://github.com/Jchen20-1.png" alt="Jiawen" width="100" height="100" style="border-radius: 50%;">      | Jiawen Chen     | Database Lead                | @Jchen20-1      |
+| <img src="https://github.com/jianleliu.png" alt="Jianle" width="100" height="100" style="border-radius: 50%;">      | Jianle Liu      | Integrations Lead            | @jianleliu      |
+| <img src="https://github.com/hokwaichan.png" alt="Hokwai" width="100" height="100" style="border-radius: 50%;">     | HokWai Chan     | Testing Lead                 | @hokwaichan     |
+| <img src="https://github.com/ryanseng03.png" alt="Jianle" width="100" height="100" style="border-radius: 50%;">     | Ryan Seng       | Systems Reliability Engineer | @ryanseng03     |
 | <img src="https://github.com/willjsimmons.png" alt="William" width="100" height="100" style="border-radius: 50%;">  | William Simmons | Scrum-Master                 | @willjsimmons   |
 
  
