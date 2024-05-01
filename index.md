@@ -86,8 +86,11 @@ Users can view and edit their profile. They can see their stats, committed event
 
 ### Edit User Profile Page
 Users can edit their profile information.
-
 ![](./images/M6/EditUserProfile.png)
+
+### My Events Page
+Users can view their committed events and see the details of each event. They can also see the organization hosting the event and the event's location, date, and time.
+![](./images/M6/MyEvents.png)
 
 ## Organization Guide
 
