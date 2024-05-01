@@ -80,12 +80,12 @@ Users can log their volunteer hours by clicking the "Log Hours" button on the ho
 
 ### User Profile Page
 Users can view and edit their profile. They can see their stats, committed events, and their organization if they have one. They can also edit their profile information and change their password.
-![](./images/M3/UserProfile.png)
+![](./images/M6/UserProfile.png)
 
 ### Edit User Profile Page
 Users can edit their profile information.
 
-![](./images/M4/EditUserProfile.png)
+![](./images/M6/EditUserProfile.png)
 
 ### Create Organization Page
 Users can create an organization and fill out the necessary information to get started.
