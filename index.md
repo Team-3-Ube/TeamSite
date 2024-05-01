@@ -63,8 +63,16 @@ Without needing to log in, users can freely browse available events. To join an 
 
 ### Event Page
 After selecting an event, users are taken to the event page. Here, they can see event details, location, and organization. They can also see the event's description, date, and time. Users can also commit to the event and have a quick contact button to reach out to the organization.
-
 ![](./images/M6/EventPage.png)
+
+### Organization Page
+After selecting an organization, users are taken to the organization page. Here, they can see the organization's details, location, and contact information. They can also see the organization's description, events, and reviews. Users can also contact the organization through the quick contact button and leave a review.
+![](./images/M6/OrganizationPage1.png)
+![](./images/M6/OrganizationPage2.png)
+
+### Leaving a Review
+Users can leave a review for an organization. They can rate the organization and leave a comment. If not logged in, they will be prompted to log in or register.
+![](./images/M6/LeaveReview.png)
 
 ### Register/Login Page
 Users can then choose to sign in or sign up through the dropdown at the top right, or by clicking the Sign In or Register buttons on the landing page. During registration, users must agree to the terms of service before proceeding. If not accepted, users will not be able to register.
@@ -134,6 +142,10 @@ Admins can view all events created by organizations. They can see the event deta
 ### Admin Organization Management
 Admins can view all organizations created by users. They can see the organization details and the user that created the organization. They can also edit and delete organizations if necessary.
 ![](./images/M6/AdminOrganizationModeration.png)
+
+### Admin User Management
+Admins can view all users that have registered on the app. They can see the user details. They can also edit and delete users if necessary.
+![](./images/M6/AdminUserModeration.png)
 
 ## Developer Guide
 
