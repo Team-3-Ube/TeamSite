@@ -55,13 +55,14 @@ Here, users can see any frequently asked questions, and get quick answers to bet
 ![](./images/M4/FAQ.png)
 
 ### Find Events Page
-Without needing to log in, users can freely browse available events. To join an event, users can click on the event card and click the "Commit" button. If not logged in, they will be prompted to log in or register. Events can be searched for by name, location, organization, or description. A filter is also available to sort events by categories such as "Environmental Conservation." To maintain focus, search results are limited to 9 events  and uses pagination to navigate through the results.
-![](./images/M5/FindEvent1.png)
+Without needing to log in, users can freely browse available events. To join an event, users can click on the event card and click the "Commit" button. If not logged in, they will be prompted to log in or register. Events can be searched for by name, location, organization, or description. A filter is also available to sort events by categories such as "Environmental Conservation." To maintain focus, search results are limited to 9 events and uses pagination to navigate through the results. At the bottom, users can create their own events by signing up as an Organization.
+![](./images/M6/FindEvents1.png)
+![](./images/M6/FindEvents2.png)
 
 ### Event Page
 After selecting an event, users are taken to the event page. Here, they can see event details, location, and organization. They can also see the event's description, date, and time. Users can also commit to the event and have a quick contact button to reach out to the organization.
 
-![](./images/M4/eventPage.png)
+![](./images/M6/EventPage.png)
 
 ### Register/Login Page
 Users can then choose to sign in or sign up through the dropdown at the top right, or by clicking the Sign In or Register buttons on the landing page. During registration, users must agree to the terms of service before proceeding.
