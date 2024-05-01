@@ -5,6 +5,7 @@
 * [Goals](#goals)
 * [User Guide](#user-guide)
 * [Organization Guide](#organization-guide)
+* [Admin Guide](#admin-guide)
 * [Developer Guide](#developer-guide)
   * [Continuous Integration](#continuous-integration)
   * [Installation](#installation)
@@ -205,6 +206,12 @@ The fifth milestone was focused on the ability for users to sign-up after accept
 
 Milestone 5 was managed using [Voluntree GitHub Project Board M5](https://github.com/orgs/Ube-Dev/projects/10/views/1)
 ![](./images/M5/M5ProjectBoard.png)
+
+### Milestone 6: User and Organization Dashboard, Admin Panel, and Bug Fixes
+The sixth milestone was focused on the ability for users to view their dashboard and organizations to view their dashboard. Admins can now view the admin dashboard and moderate events, organizations, and users. Improvements to overall user experience and user interface were also made.
+
+Milestone 6 was managed using [Voluntree GitHub Project Board M6](https://github.com/orgs/Ube-Dev/projects/11/views/2)
+![](./images/M6/M6ProjectBoard.png)
 
 ## Team
 Voluntree is designed and developed by:
