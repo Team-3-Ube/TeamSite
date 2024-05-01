@@ -90,7 +90,7 @@ Users can edit their profile information.
 ### Create Organization Page
 Users can create an organization and fill out the necessary information to get started.
 
-![](./images/M4/CreateOrganization.png)
+![](./images/M6/CreateOrganization.png)
 
 ### Dashboard Page Mockup
 Users with organizations can go to the dashboard page for a detailed overview of their stats and performances. They can also see their upcoming events and a calendar of events. Easy access to the events page and organization profile is also available.
