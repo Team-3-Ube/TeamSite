@@ -121,6 +121,20 @@ Organizations can edit and delete events they have created. They can change the 
 Organizations can record the hours of volunteers who have attended their events. They can scan the QR code of the volunteer to log their hours.
 ![](./images/M6/RecordHours.png)
 
+## Admin Guide
+
+### Admin Dashboard
+Admins can view the admin dashboard to see an overview of the app's statistics. They can see the number of users, organizations, and events. They can also see the number of hours logged and the number of events created.
+![](./images/M6/AdminDashboard.png)
+
+### Admin Event Management
+Admins can view all events created by organizations. They can see the event details and the organization that created the event. They can also edit and delete events if necessary.
+![](./images/M6/AdminEventModeration.png)
+
+### Admin Organization Management
+Admins can view all organizations created by users. They can see the organization details and the user that created the organization. They can also edit and delete organizations if necessary.
+![](./images/M6/AdminOrganizationModeration.png)
+
 ## Developer Guide
 
 ### Continuous Integration
