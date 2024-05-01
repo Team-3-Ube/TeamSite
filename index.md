@@ -3,6 +3,8 @@
 ## Table of Contents
 * [Voluntree Overview](#overview)
 * [Goals](#goals)
+* [User Guide](#user-guide)
+* [Organization Guide](#organization-guide)
 * [Developer Guide](#developer-guide)
   * [Continuous Integration](#continuous-integration)
   * [Installation](#installation)
@@ -87,6 +89,8 @@ Users can edit their profile information.
 
 ![](./images/M6/EditUserProfile.png)
 
+## Organization Guide
+
 ### Create Organization Page
 Users can create an organization and fill out the necessary information to get started.
 
@@ -98,15 +102,21 @@ Users with organizations can go to the dashboard page for a detailed overview of
 ![](./images/M6/OrgDashboard2.png)
 
 ### Add Event Page
-Organizations can create new events which will show up on the Find Events Page for users to browse through. They can fill out the event information and add a description, date, time, and location. Host details and contact information are automatically filled out based on the selected organization.
-![](./images/M5/CreateEvent1.png)
-![](./images/M5/CreateEvent2.png)
+Organizations can create new events which will show up on the Find Events Page for users to browse through. They can fill out the event information and add a description, date, time, and location. Host details and contact information are automatically filled out based on the selected organization. Each section of the form is split into section to help make the process easier.
+![](./images/M6/CreateEvent1.png)
+![](./images/M6/CreateEvent2.png)
+![](./images/M6/CreateEvent3.png)
+![](./images/M6/CreateEvent4.png)
+![](./images/M6/CreateEvent5.png)
 
 ### Edit & Delete Event Page
 Organizations can edit and delete events they have created. They can change the event information and delete the event if necessary.
 ![](./images/M5/EditEvent1.png)
 ![](./images/M5/EditEvent2.png)
 
+### Recording Hours Page
+Organizations can record the hours of volunteers who have attended their events. They can scan the QR code of the volunteer to log their hours.
+![](./images/M6/RecordHours.png)
 
 ## Developer Guide
 
